@@ -1,6 +1,6 @@
 package pokemons;
 
-import move.*;
+import move.Trop_Kick;
 import ru.ifmo.se.pokemon.Type;
 
 public class Tsareena extends Steenee{

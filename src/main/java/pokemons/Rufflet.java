@@ -1,8 +1,10 @@
 package pokemons;
 
+import move.Double_Team;
+import move.Rock_Tomb;
+import move.Slash;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
-import move.*;
 
 public class Rufflet extends Pokemon {
     public Rufflet(String name, int level){

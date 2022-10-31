@@ -1,9 +1,9 @@
 package pokemons;
 
+import move.Play_Nice;
 import ru.ifmo.se.pokemon.Type;
-import move.*;
 
-public class Steenee extends Bounsweet{
+public class Steenee extends Bounsweet {
     public Steenee(String name, int level){
         super(name, level);
         setType(Type.GRASS);

@@ -1,6 +1,9 @@
 package pokemons;
 
-import move.*;
+import move.Charge_Beam;
+import move.Drill_Peck;
+import move.Thunderbolt;
+import move.Zap_Cannon;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

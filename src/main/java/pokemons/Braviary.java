@@ -1,7 +1,7 @@
 package pokemons;
 
+import move.Superpower;
 import ru.ifmo.se.pokemon.Type;
-import move.*;
 
 public class Braviary extends Rufflet{
     public Braviary(String name, int level){

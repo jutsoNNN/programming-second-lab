@@ -1,8 +1,9 @@
 package pokemons;
 
+import move.Dazzling_Gleam;
+import move.Swagger;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
-import move.*;
 
 public class Bounsweet extends Pokemon{
     public Bounsweet(String name, int level){
